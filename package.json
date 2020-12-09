@@ -50,6 +50,7 @@
     "prettier:check": "yarn prettier:all --list-different"
   },
   "dependencies": {
+    "@graphile-contrib/pg-simplify-inflector": "^6.1.0",
     "@graphile/lru": "4.9.0",
     "@types/json5": "^0.0.30",
     "@types/jsonwebtoken": "^8.3.2",
@@ -71,6 +72,7 @@
     "pg": ">=6.1.0 <9",
     "pg-connection-string": "^2.0.0",
     "pg-sql2": "4.9.0",
+    "postgraphile": "^4.10.0",
     "postgraphile-core": "4.10.0",
     "subscriptions-transport-ws": "^0.9.18",
     "tslib": "^2.0.1",
