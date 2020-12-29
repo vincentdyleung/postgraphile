@@ -74,6 +74,7 @@
     "pg-sql2": "4.9.0",
     "postgraphile": "^4.10.0",
     "postgraphile-core": "4.10.0",
+    "postgraphile-plugin-connection-filter": "^2.1.1",
     "subscriptions-transport-ws": "^0.9.18",
     "tslib": "^2.0.1",
     "ws": "^6.1.3"
